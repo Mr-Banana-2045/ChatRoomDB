@@ -9,3 +9,9 @@ DB >
 Folder >
   photo/
 </pre>
+## Changes
+* Chat page character limit (numbers, letters)
+* Username selection limit (5 characters allowed)
+* Registration limit for each device
+* Name change by user
+* View other people's profiles
