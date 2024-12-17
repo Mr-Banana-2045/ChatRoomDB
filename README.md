@@ -4,6 +4,8 @@
 ![تصویر صفحه 2024-12-15 231701](https://github.com/user-attachments/assets/65aaf5ee-c264-4614-afbd-ace28ee29e69)
 <pre>
 DB >
-  user : id, name, username,profession, password، img
+  user : id, name, username,profession, password، img, device
   message : id, name, msg, img
+Folder >
+  photo/
 </pre>
