@@ -12,8 +12,8 @@
 
 <pre>
 DB >
-  user : id, name, username,profession, password، img, device
-  message : id, name, msg, img
+  user : id, name, username, profession, password، img, device
+  message : id, name, time, msg, img
 Folder >
   photo/
 </pre>
