@@ -10,7 +10,9 @@
 
 ## Video
 
-https://s8.uupload.ir/filelink/H0SYzH9K9XRm_fa00fe57f0/inshot_20241219_140431970_v6sl.mp4
+<video>
+  <source src="https://s8.uupload.ir/filelink/H0SYzH9K9XRm_fa00fe57f0/inshot_20241219_140431970_v6sl.mp4" type="video/mp4">
+</video>
 
 ## Databaee
 
