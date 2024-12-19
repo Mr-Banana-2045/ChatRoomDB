@@ -29,3 +29,4 @@ Folder >
 * Name change by user
 * View other people's profiles
 * Edit Message
+* Register Account
