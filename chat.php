@@ -8,6 +8,7 @@ if(!isset($_SESSION['username'])){
   -ms-user-select: none;
   user-select: none;" oncontextmenu="return false;" onkeydown="if(!event.target.matches('input')&&!event.target.matches('textarea'))return!1" oncontextmenu="return!1" onselectstart="return!1" ondragstart="return!1">
 <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 <script src="jquery-3.6.0.min.js"></script>
 <body style="background-color: #ffffff;
   font-family: 'Lucida Console', 'Courier New', monospace;
